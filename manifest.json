@@ -1,6 +1,6 @@
 {
-  "manifest_version": 3,
-  "name": "RabbitMQ Message Loader",
+  "manifest_version": 2,
+  "name": "RabbitMQ Sample Message Loader",
   "version": "0.1.0",
   "web_accessible_resources": [
     "payloads/*.json"

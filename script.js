@@ -44,7 +44,7 @@ function preparePayload() {
       if ('#/exchanges/publish' == $(this).attr('action')) {
         payloadForm = $(this);
 
-        var html = '<button style="margin-top: 5px" id="upload-payload">Load Message</button>';
+        var html = '<button style="margin-top: 5px" id="upload-payload">Load Sample Message</button>';
         $(this).parent().parent().append(html);
       }
     });
