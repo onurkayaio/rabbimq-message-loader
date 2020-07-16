@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "RabbitMQ Message Loader",
+  "version": "0.1.0",
+  "web_accessible_resources": [
+    "payloads/*.json"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://localhost/*"
+      ],
+      "js": [
+        "jquery.js",
+        "script.js"
+      ]
+    }
+  ]
+}
