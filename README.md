@@ -10,7 +10,7 @@ click the load unpacked button
 select project folder
 ```
 
-[add extension](https://media.giphy.com/media/TLPMAnRpRXQCnhTB2p/giphy.gif)
+[add_extension.gif](https://media.giphy.com/media/TLPMAnRpRXQCnhTB2p/giphy.gif)
 
 ## add a new sample message
 create a JSON file under the payloads folder.
@@ -19,4 +19,4 @@ filename must be equal with the queue - exchange name.
 
 after change of project, you need to refresh extension from `chrome://extensions/` 
 
-[load sample](https://media.giphy.com/media/WtUoBa0fBOWQdJ9FKp/giphy.gif)
+[load_sample.gif](https://media.giphy.com/media/WtUoBa0fBOWQdJ9FKp/giphy.gif)
